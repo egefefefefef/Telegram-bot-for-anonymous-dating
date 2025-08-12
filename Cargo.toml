@@ -1,0 +1,13 @@
+[package]
+name = "TelegramBotTest"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+teloxide = { version = "0.12", features = ["macros", "ctrlc_handler"] }
+tokio = { version = "1", features = ["full"] }
+dotenv = "0.15"
+rand = "0.8"
+aes = "0.8"
+cbc = "0.1"
+pkcs7 = "0.4"

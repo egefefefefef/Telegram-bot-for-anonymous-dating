@@ -1,0 +1,7 @@
+/target
+.env
+.cargo/config.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
