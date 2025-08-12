@@ -22,7 +22,7 @@
 ```bash
 git clone https://github.com/egefefefefef/Telegram-bot-for-anonymous-dating.git
 cd Telegram-bot-for-anonymous-dating
-
+```
 ### 3. Настройка переменных окружения
 Для работы бота нужен токен от Telegram.
   1. Создайте файл .env в корневой папке проекта. 
@@ -34,7 +34,7 @@ cd Telegram-bot-for-anonymous-dating
 ```bash
 cargo run
 Бот запустится и будет готов к работе.
-
+```
 ### Используемые технологии
 Язык: Rust
 Фреймворк для Telegram: Teloxide
